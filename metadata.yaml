@@ -1,0 +1,22 @@
+_repo: -Twixt-France-and-Spain--13-Or-A-Spring-in-the-Pyrenees_10403
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bilbrough, E. Ernest
+    gutenberg_agent_id: '3516'
+    url: http://www.gutenberg.org/2009/agents/3516
+description: ''
+gutenberg_issued: '2003-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10403'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DC'
+- !lcsh 'Pyrenees -- Description and travel'
+- GITenberg
+title: "'Twixt France and Spain\r\nOr, A Spring in the Pyrenees"
+url: http://www.gutenberg.org/ebooks/10403
